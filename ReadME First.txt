@@ -15,7 +15,7 @@ ListoVoices_tts3.py => Program tests text-to-speech
 Reference Program:
 get_pi-requirements2.sh => Shell script to run requirements and install Tensorflow
 
-¡ÒÃµèÍ servo motor ¼èÒ¹ GPIO Extension Board
-1. servo motor ÊÒÂá´§ à¢éÒ 5V ªèÍ§·Õè 2 (GPIO Extension Board-> BCM)
-2. servo motor ÊÒÂÊÕàËÅ×Í§ à¢éÒ GPIO18 (Connect to Pin 11 for Raspberry Pi) 
-3. servo motor ÊÒÂ¹ÓµÒÅ à¢éÒ GND ªèÍ§·Õè 5 (GIO Extension Board-> BCM)
+à¸•à¹ˆà¸­à¹€à¸Šà¸·à¹ˆà¸­à¸¡ servo motor à¸à¸±à¸š GPIO Extension Board
+1. servo motor ÃŠÃ’Ã‚Ã¡Â´Â§ Ã Â¢Ã©Ã’ 5V ÂªÃ¨ÃÂ§Â·Ã•Ã¨ 2 (GPIO Extension Board-> BCM)
+2. servo motor ÃŠÃ’Ã‚ÃŠÃ•Ã Ã‹Ã…Ã—ÃÂ§ Ã Â¢Ã©Ã’ GPIO18 (Connect to Pin 11 for Raspberry Pi) 
+3. servo motor ÃŠÃ’Ã‚Â¹Ã“ÂµÃ’Ã… Ã Â¢Ã©Ã’ GND ÂªÃ¨ÃÂ§Â·Ã•Ã¨ 5 (GIO Extension Board-> BCM)
